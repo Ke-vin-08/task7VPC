@@ -19,7 +19,7 @@ Antes de comenzar, asegúrate de tener todas las dependencias necesarias instala
 ```bash
 pip install matplotlib numpy
 
-*Graficar un punto*
+## Graficar un punto
 Se detallará esta sección, que tiene como objetivo profundizar en el espacio tridimensional. Para futuros repositorios, se detallará la importancia de la geometía proyectiva en Visión por computador.
 
 graficarPunto([x, y, z, w])
